@@ -1,0 +1,9 @@
+{
+  "name": "Restart UK",
+  "short_name": "Restart",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fffbe6",
+  "description": "Find housing and support in the UK",
+  "icons": []
+}
